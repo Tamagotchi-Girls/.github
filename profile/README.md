@@ -58,26 +58,26 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tamagotchi-Girls/.github/main/profile/assets/founder.png" width="160" alt="Founder"/>
-      <h3>Nombre de la founder</h3>
+      <img src="https://raw.githubusercontent.com/Tamagotchi-Girls/.github/main/profile/assets/founder.jpeg" width="160" alt="Founder"/>
+      <h3>Daniela Keeh</h3>
       <code>founder.exe</code>
-      <p>Carrera · semestre<br/>Una o dos líneas sobre ella: qué le gusta, en qué se enfoca dentro de la org.</p>
-      <a href="https://github.com/USUARIO">
+      <p>Ingeniería en computación· 7th <br/> Software developer en @Wisdom, periodista y profesora, me dedico a diseñar sistemas tanto como para software y hardware en la org.</p>
+      <a href="https://github.com/DanielaKeeh">
         <img src="https://img.shields.io/badge/GitHub-1A1A2E?style=flat-square&logo=github&logoColor=white"/>
       </a>
-      <a href="https://www.linkedin.com/in/USUARIO">
+      <a href="https://www.linkedin.com/in/danielakeeh/">
         <img src="https://img.shields.io/badge/LinkedIn-C9A0E8?style=flat-square&logo=linkedin&logoColor=1A1A2E"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tamagotchi-Girls/.github/main/profile/assets/cofounder.png" width="160" alt="Co-founder"/>
-      <h3>Nombre de la co-founder</h3>
+      <img src="https://raw.githubusercontent.com/Tamagotchi-Girls/.github/main/profile/assets/co-founder.jpeg" width="160" alt="Co-founder"/>
+      <h3>Celida Davila</h3>
       <code>cofounder.exe</code>
-      <p>Carrera · semestre<br/>Una o dos líneas sobre ella: qué le gusta, en qué se enfoca dentro de la org.</p>
-      <a href="https://github.com/USUARIO">
+      <p>Ingeniería en computación · 6th<br/>Intern en @Intel, en qué se enfoca dentro de la org.</p>
+      <a href="https://github.com/CelidaDavila">
         <img src="https://img.shields.io/badge/GitHub-1A1A2E?style=flat-square&logo=github&logoColor=white"/>
       </a>
-      <a href="https://www.linkedin.com/in/USUARIO">
+      <a href="https://www.linkedin.com/in/celida-ximena-davila-aldaco/">
         <img src="https://img.shields.io/badge/LinkedIn-F2A7C9?style=flat-square&logo=linkedin&logoColor=1A1A2E"/>
       </a>
     </td>
