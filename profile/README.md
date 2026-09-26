@@ -73,7 +73,7 @@
       <img src="https://raw.githubusercontent.com/Tamagotchi-Girls/.github/main/profile/assets/co-founder.jpeg" width="160" alt="Co-founder"/>
       <h3>Celida Davila</h3>
       <code>cofounder.exe</code>
-      <p>Ingeniería en computación · 6th<br/>Intern en @Intel, me dedico a implementar el hardware en la org.</p>
+      <p>Ingeniería en computación · 6th<br/>Intern en @Intel y participante regional en @ICPC México, me dedico a implementar el hardware en la org.</p>
       <a href="https://github.com/CelidaDavila">
         <img src="https://img.shields.io/badge/GitHub-1A1A2E?style=flat-square&logo=github&logoColor=white"/>
       </a>
