@@ -88,7 +88,7 @@
 
 <div align="center">
 
-[![sitio web](https://img.shields.io/badge/sitio_web-5FE0EC?style=for-the-badge&logo=googlechrome&logoColor=1A1A2E)](https://TU-SITIO.com)
+[![sitio web](https://img.shields.io/badge/sitio_web-5FE0EC?style=for-the-badge&logo=googlechrome&logoColor=1A1A2E)](https://tamagotchigirls.org)
 [![instagram](https://img.shields.io/badge/instagram-F2A7C9?style=for-the-badge&logo=instagram&logoColor=1A1A2E)](https://instagram.com/tamagotchigirlsmx)
 
 <sub>hecho con 💖 y muchos pixeles · CUCEI, Universidad de Guadalajara</sub>
