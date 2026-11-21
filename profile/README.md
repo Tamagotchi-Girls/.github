@@ -58,7 +58,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/Tamagotchi-Girls/.github/blob/main/profile/assets/MiMaride.jpg" width="160" alt="Founder"/>
+      <img src="https://github.com/Tamagotchi-Girls/.github/blob/main/profile/assets/founder.jpeg" width="160" alt="Founder"/>
       <h3>Daniela Keeh</h3>
       <code>founder.exe</code>
       <p>Ingeniería en computación· 7th <br/> Software developer en @Wisdom, periodista y profesora, me dedico a diseñar sistemas tanto como para software y hardware en la org.</p>
