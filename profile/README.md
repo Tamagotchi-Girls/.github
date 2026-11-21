@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td align="center" width="30%">
+    <td align="center" width="25%">
       <h3>🎨<br/>Diseño</h3>
       <sub>Pixel art, interfaces y experiencias visuales.</sub>
     </td>
