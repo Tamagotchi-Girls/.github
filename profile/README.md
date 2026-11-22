@@ -13,7 +13,7 @@
 
 ## 👾 ¿Quiénes somos?
 
-> **hola**
+> **`Sobre nosotras.txt`**
 >
 > Tamagotchi Girls es una organización estudiantil creada para conectar chicas interesadas en tecnología, diseño y hardware.
 >
@@ -30,7 +30,7 @@
 + Crear tecnología con identidad propia.
 ```
 
-## te amo bts
+## 🕹️ Lo que hacemos
 
 <table>
   <tr>
