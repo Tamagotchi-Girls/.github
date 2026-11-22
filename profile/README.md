@@ -30,7 +30,7 @@
 + Crear tecnología con identidad propia.
 ```
 
-## 🕹️ Lo que hacemos
+## te amo bts
 
 <table>
   <tr>
